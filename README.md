@@ -1,6 +1,9 @@
 # Contact Card Assignment
 
-The purpose of this challenge is to create a responsive contact card using flexbox and/or grid. The card can be for you personally or for a fictitious character. In the previous exercises you were provided code to focus on semantic HTML, Flexbox, and Grid. In this exercise, it will be up to you to build the project.
+The purpose of this challenge is to create a responsive contact card using flexbox and/or grid. 
+The card can be for you personally or for a fictitious character. In the previous exercises
+ you were provided code to focus on semantic HTML, Flexbox, and Grid. In this exercise,
+  it will be up to you to build the project.
 
 You will use this wireframe as a guide to complete your project.
 
@@ -28,7 +31,8 @@ Follow these steps to fork and clone the repository:
 
 ### Viewing the Project
 
-To view the project locally, you can either open the project files in your code editor or open the HTML files in your browser.
+To view the project locally, you can either open the project files in your code editor or open 
+the HTML files in your browser.
 
 ### Tasks
 In `index.html`, add the following for your contact card:
@@ -39,8 +43,10 @@ In `index.html`, add the following for your contact card:
 - [ ] Company Name
 
 In `style.css`, do the following:
-- [ ] Include the css reset in this file. If you are unsure how to do this, please refer to the last assignment.
-- [ ] Write two media queries to account for larger sized screens. Use the breakpoint sizes from the example wireframe or adjust them to fit your card.
+- [ ] Include the css reset in this file. If you are unsure how to do this, please refer to
+ the last assignment.
+- [ ] Write two media queries to account for larger sized screens. Use the breakpoint sizes
+ from the example wireframe or adjust them to fit your card.
 - [ ] Ensure that your card is centered horizontally on all device sizes.
 
 
@@ -49,4 +55,5 @@ In `style.css`, do the following:
 
 ### Submitting Your Work
 
-After completing the assignment, make sure to commit your changes and push them back to your own repository and turn in the GitHub link in Google Classroom.
+After completing the assignment, make sure to commit your changes and push them back 
+to your own repository and turn in the GitHub link in Google Classroom.
